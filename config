@@ -1,0 +1,6 @@
+# GITHUB
+
+Host github-personel
+   HostName github.com
+   PreferredAuthentications publickey
+   IdentityFile C:\Users\gaurav.1.punhani\.ssh\id_rsa_personel
